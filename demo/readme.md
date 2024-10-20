@@ -5,4 +5,4 @@ C'est celui utilisé pour activer les buzzers lorsque le seuil de température e
 Le code optimisation est utilisé pour la partie optimisation et consommation d'énergie avec le mode veille "deep sleep" . Il est ce pendant non fonctionnel
 
 Le code prototype_full contient l'ensemble des fonctionnalités du système c'est à dire la partie démo + la partie optimisation+ envoi du mail lorsque le seuil est dépassé ; 
-I y'a quelques erreurs 
+Il y'a quelques erreurs 
