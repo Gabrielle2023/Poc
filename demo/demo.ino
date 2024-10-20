@@ -8,7 +8,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME    "Inssso"
-//#define AIO_KEY         "aio_VYaE20M5aYC6iVK44yeD5yf7F2iz"
+#define AIO_KEY         " "
 
 WiFiClient client;
 Adafruit_MQTT_Client mqtt(&client, AIO_SERVER, AIO_SERVERPORT, AIO_USERNAME, AIO_KEY);
